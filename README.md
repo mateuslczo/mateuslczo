@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Marcos Mateus
-- 👀 I’m interested Angular, React, JS, Razor, C# .Net CORE, não necessariamente nessa ordem :) 
-- 🌱 I’m currently everything I listed above, all the time, sometimes i stop to play electronic games
+- 👀 I'm interested in developing apps in Angular, JS, C# .Net CORE, not necessarily in that order :) 
+- 🌱 Currently I do everything I posted above, all the time, sometimes I stop to play electronic games
 - 💞️ I’m looking to collaborate on miscellaneous apps
-- 📫 How to reach me I still don't know how to answer this question, send me tips
+- 📫 How to contact me?Linkedin, email or paper letters to my mailbox
 
 <!---
 mateuslczo/mateuslczo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
